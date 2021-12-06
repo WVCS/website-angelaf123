@@ -1,3 +1,20 @@
 body {
- background-color: salmon;
+
+  background-color: #FFF1E6; 
+}
+
+h5{
+  color: black;
+  font-size:300%;
+  background-color: #FDE2E4;
+  font-family: 'Brush Script MT', cursive;
+}
+img{
+  width: 30%;
+  height: 10%;
+  border: solid 10px #FDE2E4;
+}
+iframe{
+  width: 40%;
+  border: dashed 5px lightblue
 }
