@@ -1,20 +1,42 @@
 body {
-
-  background-color: #FFF1E6; 
+  background-color: #f0e7da; 
 }
 
 h5{
   color: black;
   font-size:300%;
-  background-color: #FDE2E4;
   font-family: 'Brush Script MT', cursive;
 }
 img{
   width: 30%;
-  height: 50%;
-  border: solid 10px #FDE2E4;
+  height: 10%;
+  border: solid 10px #a6b4b3;
 }
 iframe{
   width: 40%;
-  border: dashed 5px lightblue
+  border: dashed 5px #a6b4b3;
+}
+nav{
+  list-style-type:none;
+  background-color: #E5CBc1;
+  width:100%;
+  overflow: hidden;
+  text-align: center;
+  left:0;
+  top: 0;
+  margin:0;
+  
+}
+li a{
+  display: block;
+  color:#ba494b;
+  text-decoration: none;
+  padding: 15px 50px;
+}
+li{
+  float: left;
+}
+li a:hover {
+  background-color: #e3e4e0;
+  color: #ba494b;
 }
