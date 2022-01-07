@@ -12,10 +12,7 @@ img{
   height: 10%;
   border: solid 10px #a6b4b3;
 }
-iframe{
-  width: 40%;
-  border: dashed 5px #a6b4b3;
-}
+
 nav{
   list-style-type:none;
   background-color: #E5CBc1;
